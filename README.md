@@ -1,4 +1,4 @@
-<h1 align="center">Aloha, I'm Abdullah Aldeijy</h1>
+<h1 align="center">Hello, I'm Abdullah Aldeijy</h1>
 
 ## 🔗 Certified Solutions Architect & Cloud Engineer
 
