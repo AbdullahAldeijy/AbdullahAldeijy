@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Abdullah Aldeijy</h1>
+<h1 align="center">Aloha, I'm Abdullah Aldeijy</h1>
 
 ## 🔗 Certified Solutions Architect & Cloud Engineer
 
@@ -16,5 +16,5 @@ With a background in Information Systems and Product Management, I currently wor
 Some I use regularly...Some I've used regularly in the past...And some I've dabbled in with interest in understanding what they are about.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,jenkins,terraform,git,github,githubactions,py,postgres,laravel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,jenkins,terraform,git,github,githubactions,py,postgres,firebase,linux,ubuntu,bash,powershell,js,java,mysql,react,fastapi,laravel,dotnet,vscode,figma&perline=10" />
 </p>
