@@ -1,15 +1,15 @@
-[cite_start]<h1 align="center">Aloha, I'm Abdullah Aldeijy</h1> [cite: 1]
+<h1 align="center">Hello, I'm Abdullah Aldeijy</h1>
 
-## [cite_start]🔗 Certified Solutions Architect & Cloud Engineer [cite: 8]
+## 🔗 Certified Solutions Architect & Cloud Engineer
 
-[cite_start]I specialize in the full lifecycle of cloud native applications, focusing on building resilient, cost-optimized Azure, AWS and GCP infrastructure that aligns technical scale with business goals. [cite: 9]
+I specialize in the full lifecycle of cloud native applications, focusing on building resilient, cost-optimized Azure, AWS and GCP infrastructure that aligns technical scale with business goals.
 
-[cite_start]With a background in Information Systems and Product Management [cite: 8][cite_start], I currently work as a Co-Founder and Solution Architect at Lunixa Cloud. [cite: 11] [cite_start]I also hold multiple Microsoft Azure certifications, including Azure Administrator (AZ-104), Developer (AZ-204), and Solutions Architect Expert (AZ-305). [cite: 11] Here's a bit more about me:
+With a background in Information Systems and Product Management, I currently work as a Co-Founder and Solution Architect at Lunixa Cloud. I also hold multiple Microsoft Azure certifications, including Azure Administrator (AZ-104), Developer (AZ-204), and Solutions Architect Expert (AZ-305). Here's a bit more about me:
 
-- [cite_start]🌍 I'm based in Riyadh, Saudi Arabia. [cite: 5]
-- [cite_start]✉️ You can contact me at abdullahaldeijy@gmail.com [cite: 2] [cite_start]or connect with me on LinkedIn. [cite: 3]
-- [cite_start]🧠 I'm highly focused on Cloud Platforms (Azure, AWS, GCP) [cite: 22][cite_start], DevOps Tools (Docker, CI/CD) [cite: 23][cite_start], and IaC & Automation (Terraform, GitHub Actions). [cite: 24]
-- [cite_start]🤝 I'm open to collaborating on cloud infrastructure, automation, and containerization projects, similar to my DaMoGhazi lightweight cloud provider project! [cite: 13, 14]
+- 🌍 I'm based in Riyadh, Saudi Arabia.
+- ✉️ You can contact me at abdullahaldeijy@gmail.com or connect with me on LinkedIn.
+- 🧠 I'm highly focused on Cloud Platforms (Azure, AWS, GCP), DevOps Tools (Docker, CI/CD), and IaC & Automation (Terraform, GitHub Actions).
+- 🤝 I'm open to collaborating on cloud infrastructure, automation, and containerization projects, similar to my DaMoGhazi lightweight cloud provider project!
 
 ### Tech that I've used:
 
